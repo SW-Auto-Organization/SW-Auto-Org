@@ -75,13 +75,8 @@ const MergeConflict = () => {
                     label={`Gangsteri-etulasit`}
                   />
                     <Form.Check 
-<<<<<<< HEAD
                     id={`suunnistaja`}
                     label={`Suunnistusmenetelmä`}
-=======
-                    id={`reitinarvaus`}
-                    label={`Reitinarvausjärjestelmä`}
->>>>>>> origin/homeworkTask-jaaninSekoilu
                   />
                     <Form.Check 
                     id={`vakionopeudensäädin`}
